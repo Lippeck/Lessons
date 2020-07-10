@@ -8,4 +8,5 @@ add_executable(VariableDeclaration Lesson1/VariableDeclaration.c)
 add_executable(TypeConveresion Lesson1/TypeConveresion.c)
 add_executable(Operators Lesson1/Operators.c)
 add_executable(Excercises Lesson1/Excercises.c)
+add_executable(ConditionalStuff Lesson1/ConditionalStuff.c)
 

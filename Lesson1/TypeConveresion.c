@@ -5,11 +5,31 @@
 
 int main() {
 
+//Implicit Casting - might lose information
+
+// Conversion without information loss: char -> int -> -> long -> long long -> float -> double
+
+//    int x = 5.1f;
+//
+//    float f = x;
+//
+//    printf("%f", f);
+
+
+
+//    Integer Division
+
+//    float h = 15 / 2;
+//
+//    printf("%f", h);
+
+
+
 // Type Conversion to get right calculation
 //    int sum = 17, count = 5;
 //    double mean;
 //
-//    mean = sum / count; // doesnt work Type converesion needed
+//    mean = sum / count; // doesnt work Type conversion needed
 //
 //    printf("Value of mean : %f\n", mean);
 
@@ -23,7 +43,7 @@ int main() {
 //    printf("Value of sum : %d\n", s );
 //    printf("Value of char : %c\n", s );
 
-    // Conversion : char -> int -> -> long -> long long -> float -> double
+
 
     return 0;
 }
